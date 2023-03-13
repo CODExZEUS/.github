@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Telegram Bots**
 
-- 📫 How to reach me: [Anmol0700k](https://telegram.me/anmol0700)
+- 📫 How to reach me: [CODExZEUS](https://telegram.me/anmol0700)
 
 - ⚡ Fun fact **I am Noob.**
 
