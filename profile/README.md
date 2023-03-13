@@ -1,12 +1,19 @@
-## Hi there 👋
+### [👋](https://telegram.dog/anmol0700) I'm [CODExZEUS](https://telegram.me/anmol0700),
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- 🔭 I’m currently working with Php
+- 🌱 I’m currently studying
+- 👯 I’m looking to collaborate on project
+- 💬 Ask me about PHP
+- 📫 How to reach me: [CODExZEUS](https://telegram.me/anmol0700)
+- ⚡ Fun fact: im a noob 
 -->
+
+### Available 👇
+
+
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/CODExZEUS/&title=Profile%20Views)
+
+
+### Stats ⚡️
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=CODExZEUS&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=onedark&cache_seconds=86400) 
