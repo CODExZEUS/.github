@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to collaborate on **Project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/CODExZEUS](https://github.com/CODExZEUS)
+- 👨‍💻 All of my projects are available at [CODExZEUS](https://github.com/CODExZEUS)
 
 - 💬 Ask me about **Telegram Bots**
 
-- 📫 How to reach me **https://telegram.me/anmol0700**
+- 📫 How to reach me: [Anmol0700k](https://telegram.me/anmol0700)
 
 - ⚡ Fun fact **I am Noob.**
 
